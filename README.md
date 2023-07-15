@@ -1,12 +1,12 @@
 # RL an Introduction notes
 My earlier notes were written by hand with GoodNotes, so I might miss some information in those notes. Later I change to using LaTex which allows directly import the screen shots to illustrate examples more conveniently. Sometimes I will write down my understanding or add more information in the terms of *Remark*. 
 
-### About the notes
+## About the notes
 For the current stage, my focus lies on the idea and construction of reinforcement learning algorithms. Based on this fact, I skipped Ch11 and some sections in Ch12. Ch11 talks about the challenge of off-policy learning due to the instability of semi-gradient TD methods that involve bootstrapping. 
 > The whole area of off-policy learning is relatively new and unsettled. Which methods are best or even adequate is not yet clear.
 
 As for Ch12, the most popular and useful algorithms are TD($\lambda$), Truncated TD($\lambda$) and Sarsa($\lambda$), which is the purpose of the notes. Other sections are relatively not important for me. 
-### My point of view
+## My point of view
 Reinforcement learning is a science of decision making, a very powerful tool to solve the problems that are unable or difficult to solve in classical mathematics. The core idea of RL is based on the interaction of the **agent** and the **environment**. The agent observes a **state**, and according to the state, the agent takes an **action** to the environment. As a reaction, the environment returns a corresponding **reward** and state. Then the agent select the next action according to the information it received, state and reward, and so on and so forth.
 
 When you study the reinforment learning algorithms, you can always ask youself these questions:
