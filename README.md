@@ -13,7 +13,7 @@ When you study the reinforment learning algorithms, you can always ask youself t
 - What is target, or return, that we want to approximate?
 - What and why is this algorithm good or imperfect in terms of time complexity and memory cost?
 - Where is the improvement of this algorithm compared with other algorithms? For example, why is TD better than Monte Carlo?
-Although you probably cannot answer these questions immediately, one day you will understand if you keep them in mind. (so am I)
+Although you probably cannot answer these questions immediately (I cannot answer as well), one day you will understand if you keep them in mind and keep studying related content. 
 
 You you don't have time to study the 13 chapters, you can focus on ch2,3,4,6,10,13 only. However, I recommend everyone who seriously aim to understand reinforcement learning to read all 13 chapters. This will help you approach to the essence of reinforcment learning.
 
