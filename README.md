@@ -2,7 +2,9 @@
 My earlier notes were written by hand with GoodNotes, so I might miss some information in those notes. Later I change to using LaTex which allows directly import the screen shots to illustrate examples more conveniently. Sometimes I will write down my understanding or add more information in the terms of *Remark*. 
 
 ## About the notes
-For the current stage, my focus lies on the idea and construction of reinforcement learning algorithms. Based on this fact, I skipped Ch11 and some sections in Ch12. Ch11 talks about the challenge of off-policy learning due to the instability of semi-gradient TD methods that involve bootstrapping. 
+
+Currently, my primary focus is on the idea and construction of reinforcement learning algorithms, leading me to skip Ch11 and some sections in Ch12.
+Ch11 talks about the challenge of off-policy learning due to the instability of semi-gradient TD methods that involve bootstrapping. 
 > The whole area of off-policy learning is relatively new and unsettled. Which methods are best or even adequate is not yet clear.
 
 As for Ch12, the most popular and useful algorithms are TD($\lambda$), Truncated TD($\lambda$) and Sarsa($\lambda$), which are the purposes of the notes. Other sections are relatively not important for me. 
