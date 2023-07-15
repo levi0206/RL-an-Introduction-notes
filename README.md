@@ -14,7 +14,7 @@ Reinforcement learning is a science of decision making, a very powerful tool to 
 When you study the reinforment learning algorithms, you can always ask youself these questions:
 - What is target, or return, that we want to approximate?
 - What and why is this algorithm good or imperfect in terms of time complexity and memory cost?
-- Where is the improvement of this algorithm compared with other algorithms? For example, why is TD better than Monte Carlo?
+- What is the improvement of this algorithm compared with other algorithms? For example, why is TD better than Monte Carlo?
   
 Although you probably cannot answer these questions immediately (I cannot answer all as well), one day you will understand if you keep them in mind and keep studying related content. 
 
