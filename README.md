@@ -16,7 +16,7 @@ When you study the reinforment learning algorithms, you can always ask youself t
   
 Although you probably cannot answer these questions immediately (I cannot answer as well), one day you will understand if you keep them in mind and keep studying related content. 
 
-If you you don't have time to study the 13 chapters, you can focus on ch2,3,4,6,10,13 only. However, I recommend everyone who seriously aim to understand reinforcement learning to read all 13 chapters. This will help you approach to the essence of reinforcment learning.
+If you you don't have time to study the 13 chapters, you can focus on ch2,3,4,6,10,13 only. However, I recommend everyone who seriously aims to understand reinforcement learning to read all 13 chapters. This will help you approach to the essence of reinforcment learning.
 
 The meeting record is available in the [study group](https://sites.google.com/view/sntung/study-group?authuser=0) held by Prof. Tung.
 
